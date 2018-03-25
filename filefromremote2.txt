@@ -1,1 +1,2 @@
 empty file
+editing file2 from remote
